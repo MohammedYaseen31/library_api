@@ -1,0 +1,33 @@
+{
+  "cart": [
+    {
+      "id": "4",
+      "title": "Flex 3 in Action",
+      "pageCount": 576,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ahmed.jpg",
+      "authors": [
+        "Tariq Ahmed with Jon Hirschi",
+        "Faisal Abid"
+      ]
+    },
+    {
+      "id": "957f",
+      "title": "Collective Intelligence in Action",
+      "pageCount": 425,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alag.jpg",
+      "authors": [
+        "Satnam Alag"
+      ]
+    },
+    {
+      "id": "a2c3",
+      "title": "Hibernate in Action",
+      "pageCount": 400,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bauer.jpg",
+      "authors": [
+        "Christian Bauer",
+        "Gavin King"
+      ]
+    }
+  ]
+}
