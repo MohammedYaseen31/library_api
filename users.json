@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "7111",
+      "firstname": "md",
+      "lastname": "yas",
+      "contact": "9876543210",
+      "email": "yas@gmail.com",
+      "password": "yaseen123",
+      "dob": "2002-03-03",
+      "place": "goa"
+    },
+    {
+      "id": "576b",
+      "firstname": "Manju",
+      "lastname": "vani",
+      "contact": "7894561230",
+      "email": "manju@gmail.com",
+      "password": "",
+      "dob": "2000-04-29",
+      "place": "bennur"
+    },
+    {
+      "id": "6ea1",
+      "firstname": "zainab",
+      "lastname": "bee",
+      "contact": "8794563210",
+      "email": "zainab@gmail.com",
+      "password": "",
+      "dob": "2002-10-31",
+      "place": "bangalore"
+    }
+  ]
+}
